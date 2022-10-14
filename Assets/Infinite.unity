@@ -1401,7 +1401,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2198439893576736029, guid: 4c7bbd8efa1b61b4cb46a233775b4e69, type: 3}
       propertyPath: soundtracks.Array.size
-      value: 29
+      value: 31
       objectReference: {fileID: 0}
     - target: {fileID: 2198439893576736029, guid: 4c7bbd8efa1b61b4cb46a233775b4e69, type: 3}
       propertyPath: soundtracks.Array.data[0]
@@ -1519,6 +1519,14 @@ PrefabInstance:
       propertyPath: soundtracks.Array.data[28]
       value: 
       objectReference: {fileID: 8300000, guid: 6ea20bd9a8e18cc4392bb225fb3d3c30, type: 3}
+    - target: {fileID: 2198439893576736029, guid: 4c7bbd8efa1b61b4cb46a233775b4e69, type: 3}
+      propertyPath: soundtracks.Array.data[29]
+      value: 
+      objectReference: {fileID: 8300000, guid: fe00b911fdec0a047b32e4b6aac31f5d, type: 3}
+    - target: {fileID: 2198439893576736029, guid: 4c7bbd8efa1b61b4cb46a233775b4e69, type: 3}
+      propertyPath: soundtracks.Array.data[30]
+      value: 
+      objectReference: {fileID: 8300000, guid: 7b1e5891b6faed340b74728b603e1eb0, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4c7bbd8efa1b61b4cb46a233775b4e69, type: 3}
 --- !u!114 &3435438575986302367

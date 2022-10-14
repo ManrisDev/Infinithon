@@ -47,10 +47,10 @@ public class PlayerMovement : MonoBehaviour
         }
 
         //Cheats
-        /*if (Input.GetKeyDown(KeyCode.C))
+        if (Input.GetKeyDown(KeyCode.C))
         {
             GlobalVar.SetLevel(9);
             Debug.Log("Cheat activated");
-        }*/
+        }
     }
 }
